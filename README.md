@@ -1,6 +1,8 @@
 # Anagram Solver
 
-Originally created this as a tool to 'help' me play the game Words on Stream. It's a dotnet CLI tool for solving anagrams given a 4-9 letter pattern with wildcard support, and shows anagrams ordered by most frequent used words and in dictionary order.
+<img width="1803" alt="SCR-20241211-jeip" src="https://github.com/user-attachments/assets/f93f792e-74be-47d8-ab64-45b972a3bc9c">
+
+Originally created this as a tool to 'help' me play the game Words on Stream. It's a dotnet CLI app for solving anagrams given a 4-9 letter pattern with wildcard support, and shows anagrams ordered by most frequent used words and in dictionary order.
 
 ## Usage
 
